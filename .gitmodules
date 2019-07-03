@@ -1,0 +1,9 @@
+[submodule "lipa-db"]
+	path = lipa-db
+	url = https://github.com/cyclecycle/lipa-db.git
+[submodule "lipa-pattern-api"]
+	path = lipa-pattern-api
+	url = https://github.com/cyclecycle/lipa-pattern-api.git
+[submodule "lipa-ui"]
+	path = lipa-ui
+	url = https://github.com/cyclecycle/lipa-ui.git

@@ -1,0 +1,838 @@
+[
+  {
+    "PMID": "30275380",
+    "OWN": "NLM",
+    "STAT": "MEDLINE",
+    "DCOM": "20190116",
+    "LR": "20190116",
+    "IS": [
+      "2072-6643 (Electronic)",
+      "2072-6643 (Linking)"
+    ],
+    "VI": "10",
+    "IP": "10",
+    "DP": "2018 Oct 1",
+    "TI": "Impact of Coffee, Wine, and Chocolate Consumption on Cognitive Outcome and MRI Parameters in Old Age.",
+    "LID": [
+      "E1391 [pii]",
+      "10.3390/nu10101391 [doi]"
+    ],
+    "AB": "Coffee, wine and chocolate are three frequently consumed substances with a significant impact on cognition. In order to define the structural and cerebral blood flow correlates of self-reported consumption of coffee, wine and chocolate in old age, we assessed cognition and brain MRI measures in 145 community-based elderly individuals with preserved cognition (69 to 86 years). Based on two neuropsychological assessments during a 3-year follow-up, individuals were classified into stable-stable (52 sCON), intermediate (61 iCON) and deteriorating-deteriorating (32 dCON). MR imaging included voxel-based morphometry (VBM), tract-based spatial statistics (TBSS) and arterial spin labelling (ASL). Concerning behavior, moderate consumption of caffeine was related to better cognitive outcome. In contrast, increased consumption of wine was related to an unfavorable cognitive evolution. Concerning MRI, we observed a negative correlation of wine and VBM in bilateral deep white matter (WM) regions across all individuals, indicating less WM lesions. Only in sCON individuals, we observed a similar yet weaker association with caffeine. Moreover, again only in sCON individuals, we observed a significant positive correlation between ASL and wine in overlapping left parietal WM indicating better baseline brain perfusion. In conclusion, the present observations demonstrate an inverse association of wine and coffee consumption with cognitive performances. Moreover, low consumption of wine but also moderate to heavy coffee drinking was associated with better WM preservation and cerebral blood-flow notably in cognitively stable elders.",
+    "AD": [
+      "CIRD-Centre d'Imagerie Rive Droite, Rue Chantepoulet 21, 1201 Geneve, Switzerland. sven.haller@me.com.",
+      "Department of Surgical Sciences, Radiology, Uppsala University, 751 85 Uppsala, Sweden. sven.haller@me.com.",
+      "Faculty of Medicine, University of Geneva, 1205 Geneve, Switzerland. sven.haller@me.com.",
+      "Department of Psychiatry, Faculty of Medicine, University of Geneva, 1205 Geneve, Switzerland. mlmontandon@hotmail.com.",
+      "Division of Institutional Measures, Medical Direction, University Hospitals of Geneva, Rue Gabrielle-Perret-Gentil 4, 1205 Geneve, Switzerland. Cristelle.Rodriguez@hcuge.ch.",
+      "Division of Geriatrics, Department of Internal Medicine, Rehabilitation and Geriatrics, University of Geneva, 1205 Geneve, Switzerland. Francois.Herrmann@hcuge.ch.",
+      "Department of Psychiatry, Faculty of Medicine, University of Geneva, 1205 Geneve, Switzerland. Panteleimon.Giannakopoulos@hcuge.ch.",
+      "Division of Institutional Measures, Medical Direction, University Hospitals of Geneva, Rue Gabrielle-Perret-Gentil 4, 1205 Geneve, Switzerland. Panteleimon.Giannakopoulos@hcuge.ch."
+    ],
+    "FAU": [
+      "Haller, Sven",
+      "Montandon, Marie-Louise",
+      "Rodriguez, Cristelle",
+      "Herrmann, Francois R",
+      "Giannakopoulos, Panteleimon"
+    ],
+    "AU": [
+      "Haller S",
+      "Montandon ML",
+      "Rodriguez C",
+      "Herrmann FR",
+      "Giannakopoulos P"
+    ],
+    "AUID": [
+      "ORCID: 0000-0001-7433-0203",
+      "ORCID: 0000-0003-1312-1517"
+    ],
+    "LA": "eng",
+    "GR": "SNF 3200B0-1161193 and SPUM 33CM30-124111/Swiss National Science foundation",
+    "PT": "Journal Article",
+    "DEP": "20181001",
+    "PL": "Switzerland",
+    "TA": "Nutrients",
+    "JT": "Nutrients",
+    "JID": "101521595",
+    "RN": [
+      "0 (Coffee)",
+      "3G6A5W338E (Caffeine)"
+    ],
+    "SB": "IM",
+    "MH": [
+      "Aged",
+      "Aged, 80 and over",
+      "Brain/diagnostic imaging",
+      "Caffeine/adverse effects",
+      "Cerebrovascular Circulation/physiology",
+      "Chocolate/*adverse effects",
+      "Coffee/*adverse effects",
+      "Cognition/*physiology",
+      "Cognitive Dysfunction/diagnostic imaging/etiology",
+      "Eating/physiology",
+      "Female",
+      "Humans",
+      "Magnetic Resonance Imaging/*methods",
+      "Male",
+      "Neuropsychological Tests",
+      "White Matter/diagnostic imaging",
+      "Wine/*adverse effects"
+    ],
+    "PMC": "PMC6212945",
+    "OTO": "NOTNLM",
+    "OT": [
+      "aging",
+      "caffeine",
+      "chocolate",
+      "cognition",
+      "wine"
+    ],
+    "COIS": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results.",
+    "EDAT": "2018/10/03 06:00",
+    "MHDA": "2019/01/17 06:00",
+    "CRDT": "2018/10/03 06:00",
+    "PHST": [
+      "2018/08/20 00:00 [received]",
+      "2018/09/16 00:00 [revised]",
+      "2018/09/26 00:00 [accepted]",
+      "2018/10/03 06:00 [entrez]",
+      "2018/10/03 06:00 [pubmed]",
+      "2019/01/17 06:00 [medline]"
+    ],
+    "AID": [
+      "nu10101391 [pii]",
+      "10.3390/nu10101391 [doi]"
+    ],
+    "PST": "epublish"
+  },
+  {
+    "PMID": "30274327",
+    "OWN": "NLM",
+    "STAT": "MEDLINE",
+    "DCOM": "20190102",
+    "LR": "20190102",
+    "IS": [
+      "2072-6643 (Electronic)",
+      "2072-6643 (Linking)"
+    ],
+    "VI": "10",
+    "IP": "10",
+    "DP": "2018 Sep 30",
+    "TI": "The Acute Effects of Caffeinated Black Coffee on Cognition and Mood in Healthy Young and Older Adults.",
+    "LID": [
+      "E1386 [pii]",
+      "10.3390/nu10101386 [doi]"
+    ],
+    "AB": "Cognitive and mood benefits of coffee are often attributed to caffeine. However, emerging evidence indicates behavioural effects of non-caffeine components within coffee, suggesting the potential for direct or synergistic effects of these compounds when consumed with caffeine in regular brewed coffee. The current randomised, placebo-controlled, double-blind, counterbalanced-crossover study compared the effects of regular coffee, decaffeinated coffee, and placebo on measures of cognition and mood. Age and sex effects were explored by comparing responses of older (61(-)80 years, N = 30) and young (20(-)34 years, N = 29) males and females. Computerised measures of episodic memory, working memory, attention, and subjective state were completed at baseline and 30 min post-drink. Regular coffee produced the expected effects of decreased reaction time and increased alertness when compared to placebo. When compared to decaffeinated coffee, increased digit vigilance accuracy and decreased tiredness and headache ratings were observed. Decaffeinated coffee also increased alertness when compared to placebo. Higher jittery ratings following regular coffee in young females and older males represented the only interaction of sex and age with treatment. These findings suggest behavioural activity of coffee beyond its caffeine content, raising issues with the use of decaffeinated coffee as a placebo and highlighting the need for further research into its psychoactive effects.",
+    "FAU": [
+      "Haskell-Ramsay, Crystal F",
+      "Jackson, Philippa A",
+      "Forster, Joanne S",
+      "Dodd, Fiona L",
+      "Bowerbank, Samantha L",
+      "Kennedy, David O"
+    ],
+    "AU": [
+      "Haskell-Ramsay CF",
+      "Jackson PA",
+      "Forster JS",
+      "Dodd FL",
+      "Bowerbank SL",
+      "Kennedy DO"
+    ],
+    "AUID": [
+      "ORCID: 0000-0001-8153-0895",
+      "ORCID: 0000-0002-9492-134X",
+      "ORCID: 0000-0002-4685-9350"
+    ],
+    "AD": [
+      "Brain, Performance and Nutrition Research Centre, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. crystal.haskell-ramsay@northumbria.ac.uk.",
+      "Brain, Performance and Nutrition Research Centre, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. philippa.jackson@northumbria.ac.uk.",
+      "Brain, Performance and Nutrition Research Centre, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. jo.forster@northumbria.ac.uk.",
+      "Brain, Performance and Nutrition Research Centre, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. f.dodd@northumbria.ac.uk.",
+      "Faculty of Health and Life Sciences, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. samantha.bowerbank@northumbria.ac.uk.",
+      "Brain, Performance and Nutrition Research Centre, Northumbria University, Newcastle Upon-Tyne NE1 8ST, UK. david.kennedy@northumbria.ac.uk."
+    ],
+    "LA": "eng",
+    "GR": "NA/Institute for Scientific Information on Coffee",
+    "PT": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "DEP": "20180930",
+    "PL": "Switzerland",
+    "TA": "Nutrients",
+    "JT": "Nutrients",
+    "JID": "101521595",
+    "RN": [
+      "0 (Coffee)",
+      "0 (Placebos)",
+      "3G6A5W338E (Caffeine)"
+    ],
+    "SB": "IM",
+    "MH": [
+      "Adult",
+      "Affect/*drug effects",
+      "Aged",
+      "Aged, 80 and over",
+      "Attention/drug effects",
+      "Caffeine/*administration & dosage/analysis",
+      "*Coffee",
+      "Cognition/*drug effects",
+      "Cross-Over Studies",
+      "Double-Blind Method",
+      "Fatigue",
+      "Female",
+      "Humans",
+      "Learning/drug effects",
+      "Male",
+      "Middle Aged",
+      "Placebos",
+      "Reaction Time/drug effects",
+      "Saliva/chemistry"
+    ],
+    "PMC": "PMC6213082",
+    "OTO": "NOTNLM",
+    "OT": [
+      "age",
+      "caffeine",
+      "chlorogenic acids",
+      "coffee",
+      "cognition",
+      "cognitive",
+      "mood",
+      "phenolic",
+      "sex"
+    ],
+    "EDAT": "2018/10/03 06:00",
+    "MHDA": "2019/01/03 06:00",
+    "CRDT": "2018/10/03 06:00",
+    "PHST": [
+      "2018/08/20 00:00 [received]",
+      "2018/09/20 00:00 [revised]",
+      "2018/09/24 00:00 [accepted]",
+      "2018/10/03 06:00 [entrez]",
+      "2018/10/03 06:00 [pubmed]",
+      "2019/01/03 06:00 [medline]"
+    ],
+    "AID": [
+      "nu10101386 [pii]",
+      "10.3390/nu10101386 [doi]"
+    ],
+    "PST": "epublish"
+  },
+  {
+    "PMID": "29760501",
+    "OWN": "NLM",
+    "STAT": "In-Data-Review",
+    "LR": "20190329",
+    "IS": [
+      "2045-2322 (Electronic)",
+      "2045-2322 (Linking)"
+    ],
+    "VI": "8",
+    "IP": "1",
+    "DP": "2018 May 14",
+    "TI": "Habitual coffee consumption and cognitive function: a Mendelian randomization meta-analysis in up to 415,530 participants.",
+    "PG": "7526",
+    "LID": "10.1038/s41598-018-25919-2 [doi]",
+    "AB": "Coffee's long-term effect on cognitive function remains unclear with studies suggesting both benefits and adverse effects. We used Mendelian randomization to investigate the causal relationship between habitual coffee consumption and cognitive function in mid- to later life. This included up to 415,530 participants and 300,760 coffee drinkers from 10 meta-analysed European ancestry cohorts. In each cohort, composite cognitive scores that capture global cognition and memory were computed using available tests. A genetic score derived using CYP1A1/2 (rs2472297) and AHR (rs6968865) was chosen as a proxy for habitual coffee consumption. Null associations were observed when examining the associations of the genetic score with global and memory cognition (beta = -0.0007, 95% C.I. -0.009 to 0.008, P = 0.87; beta = -0.001, 95% C.I. -0.005 to 0.002, P = 0.51, respectively), with high consistency between studies (Pheterogeneity > 0.4 for both). Domain specific analyses using available cognitive measures in the UK Biobank also did not support effects by habitual coffee intake for reaction time, pairs matching, reasoning or prospective memory (P >/= 0.05 for all). Despite the power to detect very small effects, our meta-analysis provided no evidence for causal long-term effects of habitual coffee consumption on global cognition or memory.",
+    "FAU": [
+      "Zhou, Ang",
+      "Taylor, Amy E",
+      "Karhunen, Ville",
+      "Zhan, Yiqiang",
+      "Rovio, Suvi P",
+      "Lahti, Jari",
+      "Sjogren, Per",
+      "Byberg, Liisa",
+      "Lyall, Donald M",
+      "Auvinen, Juha",
+      "Lehtimaki, Terho",
+      "Kahonen, Mika",
+      "Hutri-Kahonen, Nina",
+      "Perala, Mia Maria",
+      "Michaelsson, Karl",
+      "Mahajan, Anubha",
+      "Lind, Lars",
+      "Power, Chris",
+      "Eriksson, Johan G",
+      "Raitakari, Olli T",
+      "Hagg, Sara",
+      "Pedersen, Nancy L",
+      "Veijola, Juha",
+      "Jarvelin, Marjo-Riitta",
+      "Munafo, Marcus R",
+      "Ingelsson, Erik",
+      "Llewellyn, David J",
+      "Hypponen, Elina"
+    ],
+    "AU": [
+      "Zhou A",
+      "Taylor AE",
+      "Karhunen V",
+      "Zhan Y",
+      "Rovio SP",
+      "Lahti J",
+      "Sjogren P",
+      "Byberg L",
+      "Lyall DM",
+      "Auvinen J",
+      "Lehtimaki T",
+      "Kahonen M",
+      "Hutri-Kahonen N",
+      "Perala MM",
+      "Michaelsson K",
+      "Mahajan A",
+      "Lind L",
+      "Power C",
+      "Eriksson JG",
+      "Raitakari OT",
+      "Hagg S",
+      "Pedersen NL",
+      "Veijola J",
+      "Jarvelin MR",
+      "Munafo MR",
+      "Ingelsson E",
+      "Llewellyn DJ",
+      "Hypponen E"
+    ],
+    "AD": [
+      "Australian Centre for Precision Health, University of South Australia, Adelaide, Australia.",
+      "MRC Integrative Epidemiology Unit (IEU) at the University of Bristol, Bristol, UK.",
+      "UK Centre for Tobacco and Alcohol Studies (UKCTAS) and School of Experimental Psychology, University of Bristol, Bristol, UK.",
+      "Center for Life Course Health Research, University of Oulu, Oulu, Finland.",
+      "Oulu University Hospital, Oulu, Finland.",
+      "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+      "Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku, Turku, Finland.",
+      "Helsinki Collegium for Advanced Studies, Helsinki, Finland.",
+      "Department of Psychology and Logopedics, Faculty of medicine, University of Helsinki, Helsinki, Finland.",
+      "Department of Public Health and Caring Sciences, Clinical Nutrition and Metabolism. Uppsala University, Uppsala, Sweden.",
+      "Department of Surgical Sciences, Orthopaedics, Uppsala University, Uppsala, Sweden.",
+      "Institute of Health & Wellbeing, University of Glasgow, Glasgow, UK.",
+      "Center for Life Course Health Research, University of Oulu, Oulu, Finland.",
+      "Unit of Primary Health Care, Oulu University Hospital, Oulu, Finland.",
+      "Department of Clinical Chemistry, Fimlab Laboratories and Finnish Cardiovascular Research Center Tampere, Faculty of Medicine and Life Sciences, University of Tampere, Tampere, Finland.",
+      "Department of Clinical Physiology, Tampere University Hospital and Faculty of Medicine and Life Sciences, University of Tampere, Tampere, Finland.",
+      "Department of Pediatrics, Tampere University Hospital and Faculty of Medicine and Life Sciences, University of Tampere, Tampere, Finland.",
+      "Department of Public Health Solutions, National Institute for Health and Welfare, Helsinki, Finland.",
+      "Department of Surgical Sciences, Orthopaedics, Uppsala University, Uppsala, Sweden.",
+      "Wellcome Centre for Human Genetics, Nuffield Department of Medicine, Oxford, OX3 7BN, UK.",
+      "Department of Medical Sciences, Cardiovascular Epidemiology, Uppsala University, Uppsala, Sweden.",
+      "Population, Policy and Practice, UCL Great Ormond Street Institute of Child Health, London, WC1N 1EH, UK.",
+      "Department of General Practice and Primary Health Care, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.",
+      "Folkhalsan Research Center, Helsinki, Finland.",
+      "Research Centre of Applied and Preventive Cardiovascular Medicine, University of Turku, Turku, Finland.",
+      "Department of Clinical Physiology and Nuclear Medicine, Turku University Hospital, Turku, Finland.",
+      "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+      "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+      "Department of Psychiatry, Research Unit of Clinical Neuroscience, University of Oulu, Oulu, Finland.",
+      "Department of Psychiatry, University Hospital of Oulu, Oulu, Finland.",
+      "Center for Life Course Health Research, University of Oulu, Oulu, Finland.",
+      "Unit of Primary Health Care, Oulu University Hospital, Oulu, Finland.",
+      "Department of Epidemiology and Biostatistics, MRC-PHE Centre for Environment & Health, School of Public Health, Imperial College London, London, UK.",
+      "Biocenter Oulu, University of Oulu, Oulu, Finland.",
+      "MRC Integrative Epidemiology Unit (IEU) at the University of Bristol, Bristol, UK.",
+      "UK Centre for Tobacco and Alcohol Studies (UKCTAS) and School of Experimental Psychology, University of Bristol, Bristol, UK.",
+      "Department of Medicine, Division of Cardiovascular Medicine, Stanford University School of Medicine, Stanford, CA, 94305, USA.",
+      "Department of Medical Sciences, Molecular Epidemiology and Science for Life Laboratory, Uppsala University, Uppsala, Sweden.",
+      "Stanford Cardiovascular Institute, Stanford University, CA, 94305, USA.",
+      "University of Exeter Medical School, Exeter, United Kingdom.",
+      "Australian Centre for Precision Health, University of South Australia, Adelaide, Australia. Elina.Hypponen@unisa.edu.au.",
+      "Population, Policy and Practice, UCL Great Ormond Street Institute of Child Health, London, WC1N 1EH, UK. Elina.Hypponen@unisa.edu.au.",
+      "South Australian Health and Medical Research Institute, Adelaide, Australia. Elina.Hypponen@unisa.edu.au."
+    ],
+    "AUID": [
+      "ORCID: http://orcid.org/0000-0002-4310-5297",
+      "ORCID: http://orcid.org/0000-0003-3850-1487",
+      "ORCID: http://orcid.org/0000-0001-5585-3420",
+      "ORCID: http://orcid.org/0000-0002-2452-1500",
+      "ORCID: http://orcid.org/0000-0002-4049-993X"
+    ],
+    "LA": "eng",
+    "GR": [
+      "G1001799/Medical Research Council/United Kingdom",
+      "MC_QA137853/Medical Research Council/United Kingdom",
+      "MR/N01104X/1/Medical Research Council/United Kingdom",
+      "R01 HL135313/HL/NHLBI NIH HHS/United States"
+    ],
+    "PT": "Journal Article",
+    "DEP": "20180514",
+    "PL": "England",
+    "TA": "Sci Rep",
+    "JT": "Scientific reports",
+    "JID": "101563288",
+    "PMC": "PMC5951917",
+    "EDAT": "2018/05/16 06:00",
+    "MHDA": "2018/05/16 06:00",
+    "CRDT": "2018/05/16 06:00",
+    "PHST": [
+      "2017/09/18 00:00 [received]",
+      "2018/04/24 00:00 [accepted]",
+      "2018/05/16 06:00 [entrez]",
+      "2018/05/16 06:00 [pubmed]",
+      "2018/05/16 06:00 [medline]"
+    ],
+    "AID": [
+      "10.1038/s41598-018-25919-2 [doi]",
+      "10.1038/s41598-018-25919-2 [pii]"
+    ],
+    "PST": "epublish"
+  },
+  {
+    "PMID": "29712510",
+    "OWN": "NLM",
+    "STAT": "Publisher",
+    "LR": "20180501",
+    "IS": [
+      "1476-8305 (Electronic)",
+      "1028-415X (Linking)"
+    ],
+    "DP": "2018 May 1",
+    "TI": "Modulation of brain insulin signaling in Alzheimer's disease: New insight on the protective role of green coffee bean extract.",
+    "PG": "1-10",
+    "LID": "10.1080/1028415X.2018.1468535 [doi]",
+    "AB": "OBJECTIVE: Alzheimer's disease (AD), a neurodegenerative disorder, involves brain insulin signaling cascades and insulin resistance (IR). Because of limited treatment options, new treatment strategies are mandatory. Green coffee bean extract (GCBE) was reported to attenuate IR and improve brain energy metabolism. We aimed to investigate the possible use of GCBE as a prophylactic strategy to delay the onset of AD or combined with pioglitazone (PIO) as a strategy to retard the progression of AD. METHODS: Rats received 10% fructose in drinking water for 18 weeks to induce AD. GCBE-prophylactic group received GCBE for 22 weeks started 4 weeks prior to fructose administration. The PIO group treated with PIO for 6 weeks started on week 12 of fructose administration. The GCBE+PIO group received GCBE for 22 weeks started 4 weeks prior to fructose administration and treated with PIO for the last 6 weeks of fructose administration. RESULTS: Pretreatment with GCBE, either alone or combined with PIO, alleviated IR-induced AD changes. GCBE improved cognition, decreased serine phosphorylation of insulin receptor substrate, increased phosphoinositol-3 kinase (PI3K) activity and protein kinase B (Akt) gene expression, decreased glycogen synthase kinase-3beta (GS3Kbeta) gene expression and Tau hyperphosphorylation. DISCUSSION: GCBE exerted neuroprotective effects against IR-induced AD mediated by alleviating IR and modulating brain insulin signaling cascade.",
+    "FAU": [
+      "Mohamed, Hoda E",
+      "Asker, Mervat E",
+      "Younis, Nahla N",
+      "Shaheen, Mohamed A",
+      "Eissa, Rana G"
+    ],
+    "AU": [
+      "Mohamed HE",
+      "Asker ME",
+      "Younis NN",
+      "Shaheen MA",
+      "Eissa RG"
+    ],
+    "AD": [
+      "a Department of Biochemistry, Faculty of Pharmacy , Zagazig University , Zagazig , Egypt.",
+      "a Department of Biochemistry, Faculty of Pharmacy , Zagazig University , Zagazig , Egypt.",
+      "a Department of Biochemistry, Faculty of Pharmacy , Zagazig University , Zagazig , Egypt.",
+      "b Department of Histology and Cell Biology, Faculty of Medicine , Zagazig University , Zagazig , Egypt.",
+      "a Department of Biochemistry, Faculty of Pharmacy , Zagazig University , Zagazig , Egypt."
+    ],
+    "LA": "eng",
+    "PT": "Journal Article",
+    "DEP": "20180501",
+    "PL": "England",
+    "TA": "Nutr Neurosci",
+    "JT": "Nutritional neuroscience",
+    "JID": "100892202",
+    "OTO": "NOTNLM",
+    "OT": [
+      "Fructose",
+      "Insulin resistance",
+      "Neurofilament",
+      "Pioglitazone",
+      "Tau hyperphosphorylation"
+    ],
+    "EDAT": "2018/05/02 06:00",
+    "MHDA": "2018/05/02 06:00",
+    "CRDT": "2018/05/02 06:00",
+    "PHST": [
+      "2018/05/02 06:00 [entrez]",
+      "2018/05/02 06:00 [pubmed]",
+      "2018/05/02 06:00 [medline]"
+    ],
+    "AID": "10.1080/1028415X.2018.1468535 [doi]",
+    "PST": "aheadofprint"
+  },
+  {
+    "PMID": "29654498",
+    "OWN": "NLM",
+    "STAT": "MEDLINE",
+    "DCOM": "20190401",
+    "LR": "20190401",
+    "IS": [
+      "1573-7365 (Electronic)",
+      "0885-7490 (Linking)"
+    ],
+    "VI": "33",
+    "IP": "4",
+    "DP": "2018 Aug",
+    "TI": "Comparative effect of coffee robusta and coffee arabica (Qahwa) on memory and attention.",
+    "PG": "1203-1210",
+    "LID": "10.1007/s11011-018-0230-6 [doi]",
+    "AB": "The comparative effects of coffee robusta and coffee arabica (Qahwa) on different attention and memory related assignments were measured in a double-blind study of 300 healthy young adult women who were randomly assigned to one of three different drinks: Group I (coffee robusta sachet dissolved in 100 ml of hot water): Group II (coffee arabica): and group III (100 ml water only). Cognitive function was assessed by standardized tests. Several monitoring cognitive tests and tasks were specifically chosen and performed to investigate the comparative effects of coffee robusta (CR) and coffee arabica (Qahwa; AC) on sleepiness (sleep and clear headed scale), attention (trail A & B, symbol digit, letter cancellation), general cognitive ability (stroop test) and memory (card test). Data was interpreted by analysis of variance (ANOVA). The present study revealed that coffee robusta has beneficial effects on attention, general cognitive ability and memory. Higher though non-significant cognitive scores were associated with coffee robusta consumption. Although, consumption of coffee arabica (Qahwa) has significant effects (P < 0.05) on sleepiness, attention, general cognitive ability and memory and it significantly improve reaction time and correct responses. Since different tasks were related to the sustained attention and working memory processes, results would suggest that coffee arabica (qahwa) could increase the memory and efficiency of the attentional system might be due to the presence of chlorogenic acids (CGA) which are found in less quantity in coffee robusta. However, more studies using larger samples and different tasks are necessary to better understand the effects of coffee robusta and arabica (Qahwa) on attention and memory.",
+    "FAU": [
+      "Alharbi, Waheeb D M",
+      "Azmat, Aisha",
+      "Ahmed, Muhammad"
+    ],
+    "AU": [
+      "Alharbi WDM",
+      "Azmat A",
+      "Ahmed M"
+    ],
+    "AD": [
+      "Department of Physiology, Faculty of Medicine, Umm-Al-Qura University, Makkah, Saudi Arabia.",
+      "Department of Physiology, Faculty of Medicine, Umm-Al-Qura University, Makkah, Saudi Arabia. aishaazmatkhan@hotmail.com.",
+      "Department of Pharmacology, Faculty of Pharmacy, Umm-Al-Qura University, Makkah, Saudi Arabia."
+    ],
+    "LA": "eng",
+    "PT": [
+      "Comparative Study",
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "DEP": "20180413",
+    "PL": "United States",
+    "TA": "Metab Brain Dis",
+    "JT": "Metabolic brain disease",
+    "JID": "8610370",
+    "RN": "0 (Coffee)",
+    "SB": "IM",
+    "MH": [
+      "Adolescent",
+      "Adult",
+      "Attention/*drug effects",
+      "Coffea",
+      "*Coffee",
+      "Female",
+      "Humans",
+      "Memory/*drug effects",
+      "Neuropsychological Tests",
+      "*Sleepiness",
+      "Young Adult"
+    ],
+    "OTO": "NOTNLM",
+    "OT": [
+      "*Attention",
+      "*Coffee arabica (Qahwa)",
+      "*Coffee robusta (CR)",
+      "*Cognition",
+      "*Memory",
+      "*Psychomotor performance"
+    ],
+    "EDAT": "2018/04/15 06:00",
+    "MHDA": "2019/04/02 06:00",
+    "CRDT": "2018/04/15 06:00",
+    "PHST": [
+      "2017/11/14 00:00 [received]",
+      "2018/04/06 00:00 [accepted]",
+      "2018/04/15 06:00 [pubmed]",
+      "2019/04/02 06:00 [medline]",
+      "2018/04/15 06:00 [entrez]"
+    ],
+    "AID": [
+      "10.1007/s11011-018-0230-6 [doi]",
+      "10.1007/s11011-018-0230-6 [pii]"
+    ],
+    "PST": "ppublish"
+  },
+  {
+    "PMID": "28056735",
+    "OWN": "NLM",
+    "STAT": "MEDLINE",
+    "DCOM": "20180509",
+    "LR": "20180605",
+    "IS": [
+      "1873-4286 (Electronic)",
+      "1381-6128 (Linking)"
+    ],
+    "VI": "23",
+    "IP": "19",
+    "DP": "2017",
+    "TI": "Effect of Green Tea Phytochemicals on Mood and Cognition.",
+    "PG": "2876-2905",
+    "LID": "10.2174/1381612823666170105151800 [doi]",
+    "AB": "BACKGROUND: Green tea is traditionally known to induce mental clarity, cognitive function, physical activation and relaxation. Recently, a special green tea, matcha tea, is rapidly gaining popularity throughout the world and is frequently referred to as a mood- and brain food. Matcha tea consumption leads to much higher intake of green tea phytochemicals compared to regular green tea. Previous research on tea constituents caffeine, L-theanine, and epigallocatechin gallate (EGCG) repeatedly demonstrated benefits on mood and cognitive performance. These effects were observed when these phytochemicals were consumed separately and in combination. METHODS: A review was conducted on 49 human intervention studies to summarize the research on acute psychoactive effects of caffeine, L-theanine, and EGCG on different dimensions of mood and cognitive performance. CONCLUSION: Caffeine was found to mainly improve performance on demanding long-duration cognitive tasks and self-reported alertness, arousal, and vigor. Significant effects already occurred at low doses of 40 mg. L-theanine alone improved self-reported relaxation, tension, and calmness starting at 200 mg. L-theanine and caffeine combined were found to particularly improve performance in attention-switching tasks and alertness, but to a lesser extent than caffeine alone. No conclusive evidence relating to effects induced by EGCG could be given since the amount of intervention studies was limited. These studies provided reliable evidence showing that L-theanine and caffeine have clear beneficial effects on sustained attention, memory, and suppression of distraction. Moreover, L-theanine was found to lead to relaxation by reducing caffeine induced arousal.",
+    "CI": "Copyright(c) Bentham Science Publishers; For any queries, please email at epub@benthamscience.org.",
+    "FAU": [
+      "Dietz, Christina",
+      "Dekker, Matthijs"
+    ],
+    "AU": [
+      "Dietz C",
+      "Dekker M"
+    ],
+    "AD": [
+      "Food Quality and Design Group, Wageningen University, Wageningen, Netherlands.",
+      "Food Quality and Design Group, Wageningen University, Wageningen, Netherlands."
+    ],
+    "LA": "eng",
+    "PT": [
+      "Journal Article",
+      "Review"
+    ],
+    "PL": "United Arab Emirates",
+    "TA": "Curr Pharm Des",
+    "JT": "Current pharmaceutical design",
+    "JID": "9602487",
+    "RN": [
+      "0 (Glutamates)",
+      "0 (Phytochemicals)",
+      "0 (Tea)",
+      "3G6A5W338E (Caffeine)",
+      "8021PR16QO (theanine)"
+    ],
+    "SB": "IM",
+    "MH": [
+      "Affect/*drug effects/physiology",
+      "Animals",
+      "Brain/drug effects/metabolism",
+      "Caffeine/administration & dosage/chemistry",
+      "Cognition/*drug effects/physiology",
+      "Glutamates/administration & dosage/chemistry",
+      "Humans",
+      "Phytochemicals/*administration & dosage/chemistry",
+      "Randomized Controlled Trials as Topic/methods",
+      "*Tea"
+    ],
+    "OTO": "NOTNLM",
+    "OT": [
+      "*EGCG",
+      "*Green tea",
+      "*L-theanine",
+      "*caffeine",
+      "*cognition",
+      "*mood"
+    ],
+    "EDAT": "2017/01/07 06:00",
+    "MHDA": "2018/05/10 06:00",
+    "CRDT": "2017/01/07 06:00",
+    "PHST": [
+      "2016/11/29 00:00 [received]",
+      "2017/01/01 00:00 [accepted]",
+      "2017/01/07 06:00 [pubmed]",
+      "2018/05/10 06:00 [medline]",
+      "2017/01/07 06:00 [entrez]"
+    ],
+    "AID": [
+      "10.2174/1381612823666170105151800 [doi]",
+      "CPD-EPUB-80843 [pii]"
+    ],
+    "PST": "ppublish"
+  },
+  {
+    "PMID": "26192072",
+    "OWN": "NLM",
+    "STAT": "MEDLINE",
+    "DCOM": "20170331",
+    "LR": "20190116",
+    "IS": [
+      "1549-7852 (Electronic)",
+      "1040-8398 (Linking)"
+    ],
+    "VI": "57",
+    "IP": "8",
+    "DP": "2017 May 24",
+    "TI": "L-theanine, unique amino acid of tea, and its metabolism, health effects, and safety.",
+    "PG": "1681-1687",
+    "LID": "10.1080/10408398.2015.1016141 [doi]",
+    "AB": "Tea has been a very popular beverage around the world for centuries. The reason that it is delicious, enabling hydration, showing warming and relaxing effect can be mentioned why it is consumed so much in addition to its prominent health effects. Although the catechins and caffeine are the primary bioactive components that are related with the health effects of the tea, the health effects of theanine amino acid, which is a nonproteinic amino acid special to tea, has become prominent in recent years. It has been known that the theanine amino acid in tea has positive effects especially on relaxing, cognitive performance, emotional status, sleep quality, cancer, cardiovascular diseases, obesity, and common cold. The results of acute and chronic toxicity tests conducted on the safety of theanine express that L-theanine is reliable in general even if it is consumed too much with diet. However, it has not revealed a clear evidence-based result yet regarding theanine metabolism, health effects, and its safety. Within this frame, chemical structure of theanine, its biosynthesis, dietary sources, metabolism, health effects, and safety are discussed in present study.",
+    "FAU": [
+      "Turkozu, Duygu",
+      "Sanlier, Nevin"
+    ],
+    "AU": [
+      "Turkozu D",
+      "Sanlier N"
+    ],
+    "AD": [
+      "a Gazi University, Faculty of Health Sciences , Nutrition and Dietetics Department , Ankara , Turkey.",
+      "a Gazi University, Faculty of Health Sciences , Nutrition and Dietetics Department , Ankara , Turkey."
+    ],
+    "LA": "eng",
+    "PT": [
+      "Journal Article",
+      "Review"
+    ],
+    "PL": "United States",
+    "TA": "Crit Rev Food Sci Nutr",
+    "JT": "Critical reviews in food science and nutrition",
+    "JID": "8914818",
+    "RN": [
+      "0 (Glutamates)",
+      "0 (Tea)",
+      "8021PR16QO (theanine)"
+    ],
+    "SB": "IM",
+    "MH": [
+      "Cardiovascular Diseases/prevention & control",
+      "Cognition/drug effects",
+      "Glutamates/*analysis/*pharmacology",
+      "Humans",
+      "Neoplasms/prevention & control",
+      "Obesity/prevention & control",
+      "Plant Leaves/chemistry",
+      "Randomized Controlled Trials as Topic",
+      "Sleep/drug effects",
+      "Stress, Physiological/drug effects",
+      "Tea/*chemistry"
+    ],
+    "OTO": "NOTNLM",
+    "OT": [
+      "*Tea",
+      "*health",
+      "*safety",
+      "*theanine"
+    ],
+    "EDAT": "2015/07/21 06:00",
+    "MHDA": "2017/04/01 06:00",
+    "CRDT": "2015/07/21 06:00",
+    "PHST": [
+      "2015/07/21 06:00 [pubmed]",
+      "2017/04/01 06:00 [medline]",
+      "2015/07/21 06:00 [entrez]"
+    ],
+    "AID": "10.1080/10408398.2015.1016141 [doi]",
+    "PST": "ppublish"
+  },
+  {
+    "PMID": "29497476",
+    "OWN": "NLM",
+    "STAT": "PubMed-not-MEDLINE",
+    "LR": "20181114",
+    "IS": [
+      "1942-0889 (Print)",
+      "1942-0889 (Linking)"
+    ],
+    "VI": "11",
+    "IP": "1",
+    "DP": "2018",
+    "TI": "Green tea and cocoa enhance cognition in Lymnaea.",
+    "PG": "e1434390",
+    "LID": "10.1080/19420889.2018.1434390 [doi]",
+    "AB": "A flavonoid, (-)-epicatechi (Epi), enhances long-term memory (LTM) formation in Lymnaea and reverses memory obstruction caused by stress. Many foods contain substantial amounts of Epi, (e.g. green tea and cocoa). In humans eating such foods may directly or indirectly enhance cognition. We directly test whether operant conditioning training Lymnaea in these natural foods result in the same effects as training snails in pure Epi. We found that exposure to products containing high concentrations of Epi (e.g. green tea and cocoa) during training enhanced memory formation and could even reverse a learning and memory deficit brought about by stress. Epi can be photo-inactivated by exposure to ultraviolet light. We found that following photo-inactivation of Epi, memory enhancement did not occur. Photo-inactivation of foods containing Epi (e,g. green tea) blocked their ability to enhance LTM. Our data are thus consistent with the hypothesis that dietary sources of Epi can have positive benefits on cognitive ability and be able to reverse memory aversive states.",
+    "FAU": [
+      "Swinton, Erin",
+      "de Freitas, Emily",
+      "Swinton, Cayley",
+      "Shymansky, Tamila",
+      "Hiles, Emily",
+      "Zhang, Jack",
+      "Rothwell, Cailin",
+      "Lukowiak, Ken"
+    ],
+    "AU": [
+      "Swinton E",
+      "de Freitas E",
+      "Swinton C",
+      "Shymansky T",
+      "Hiles E",
+      "Zhang J",
+      "Rothwell C",
+      "Lukowiak K"
+    ],
+    "AD": [
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.",
+      "Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada."
+    ],
+    "LA": "eng",
+    "PT": "Journal Article",
+    "DEP": "20180215",
+    "PL": "United States",
+    "TA": "Commun Integr Biol",
+    "JT": "Communicative & integrative biology",
+    "JID": "101478473",
+    "PMC": "PMC5824930",
+    "OTO": "NOTNLM",
+    "OT": [
+      "(-)-epicatechin",
+      "Lymnaea",
+      "cocoa",
+      "green tea",
+      "long-term memory"
+    ],
+    "EDAT": "2018/03/03 06:00",
+    "MHDA": "2018/03/03 06:01",
+    "CRDT": "2018/03/03 06:00",
+    "PHST": [
+      "2017/10/30 00:00 [received]",
+      "2018/01/17 00:00 [revised]",
+      "2018/01/19 00:00 [accepted]",
+      "2018/03/03 06:00 [entrez]",
+      "2018/03/03 06:00 [pubmed]",
+      "2018/03/03 06:01 [medline]"
+    ],
+    "AID": [
+      "10.1080/19420889.2018.1434390 [doi]",
+      "1434390 [pii]"
+    ],
+    "PST": "epublish"
+  },
+  {
+    "PMID": "31137655",
+    "OWN": "NLM",
+    "STAT": "In-Process",
+    "LR": "20190618",
+    "IS": [
+      "2072-6643 (Electronic)",
+      "2072-6643 (Linking)"
+    ],
+    "VI": "11",
+    "IP": "5",
+    "DP": "2019 May 24",
+    "TI": "Green Tea Intake and Risks for Dementia, Alzheimer's Disease, Mild Cognitive Impairment, and Cognitive Impairment: A Systematic Review.",
+    "LID": [
+      "E1165 [pii]",
+      "10.3390/nu11051165 [doi]"
+    ],
+    "AB": "Dementia has become a major issue that requires urgent measures. The prevention of dementia may be influenced by dietary factors. We focused on green tea and performed a systematic review of observational studies that examined the association between green tea intake and dementia, Alzheimer's disease, mild cognitive impairment, or cognitive impairment. We searched for articles registered up to 23 August 2018, in the PubMed database and then for references of original articles or reviews that examined tea and cognition. Subsequently, the extracted articles were examined regarding whether they included original data assessing an association of green tea intake and dementia, Alzheimer's disease, mild cognitive impairment, or cognitive impairment. Finally, we included three cohort studies and five cross-sectional studies. One cohort study and three cross-sectional studies supported the positive effects of green tea intake. One cohort study and one cross-sectional study reported partial positive effects. The remaining one cohort study and one cross-sectional study showed no significant association of green tea intake. These results seem to support the hypothesis that green tea intake might reduce the risk for dementia, Alzheimer's disease, mild cognitive impairment, or cognitive impairment. Further results from well-designed and well-conducted cohort studies are required to derive robust evidence.",
+    "FAU": [
+      "Kakutani, Saki",
+      "Watanabe, Hiroshi",
+      "Murayama, Norihito"
+    ],
+    "AU": [
+      "Kakutani S",
+      "Watanabe H",
+      "Murayama N"
+    ],
+    "AD": [
+      "Research Institute, Suntory Global Innovation Center Limited, Suntory World Research Center, 8-1-1 Seikadai, Seika-cho, Souraku-gun, Kyoto 619-0284, Japan. Saki_Kakutani@suntory.co.jp.",
+      "Research Institute, Suntory Global Innovation Center Limited, Suntory World Research Center, 8-1-1 Seikadai, Seika-cho, Souraku-gun, Kyoto 619-0284, Japan. H_Watanabe@suntory.co.jp.",
+      "Research Institute, Suntory Global Innovation Center Limited, Suntory World Research Center, 8-1-1 Seikadai, Seika-cho, Souraku-gun, Kyoto 619-0284, Japan. Norihito_Murayama@suntory.co.jp."
+    ],
+    "LA": "eng",
+    "PT": [
+      "Journal Article",
+      "Review"
+    ],
+    "DEP": "20190524",
+    "PL": "Switzerland",
+    "TA": "Nutrients",
+    "JT": "Nutrients",
+    "JID": "101521595",
+    "PMC": "PMC6567241",
+    "OTO": "NOTNLM",
+    "OT": [
+      "Alzheimer's disease",
+      "beverage",
+      "cognitive impairment",
+      "dementia",
+      "elderly",
+      "free-living populations",
+      "green tea intake",
+      "mild cognitive impairment",
+      "observational studies",
+      "systematic review"
+    ],
+    "EDAT": "2019/05/30 06:00",
+    "MHDA": "2019/05/30 06:00",
+    "CRDT": "2019/05/30 06:00",
+    "PHST": [
+      "2019/04/03 00:00 [received]",
+      "2019/05/10 00:00 [revised]",
+      "2019/05/21 00:00 [accepted]",
+      "2019/05/30 06:00 [entrez]",
+      "2019/05/30 06:00 [pubmed]",
+      "2019/05/30 06:00 [medline]"
+    ],
+    "AID": [
+      "nu11051165 [pii]",
+      "10.3390/nu11051165 [doi]"
+    ],
+    "PST": "epublish"
+  }
+]
