@@ -1,3 +1,4 @@
+export LIPA_SQLITE_DB_FILE="test.db"
 echo test db
 cd lipa-db
 source env/bin/activate
@@ -6,3 +7,4 @@ node scripts/start_rest.js &
 rest_pid=$!
 npm run test
 kill -9 $rest_pid
+export LIPA_SQLITE_DB_FILE="prod.db"

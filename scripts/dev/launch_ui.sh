@@ -1,2 +1,2 @@
 cd lipa-ui
-yarn run serve
+npm run serve

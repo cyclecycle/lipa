@@ -1,6 +1,6 @@
 cd lipa-ui
 
 echo installing node modules
-yarn install
+npm install
 
 bash scripts/test/test_ui.sh

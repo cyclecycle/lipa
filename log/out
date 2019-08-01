@@ -1,0 +1,23 @@
+clearing ports
+
+> lipa@0.1.0 serve /home/nickm/Documents/dev/lipa/lipa-ui
+> vue-cli-service serve
+
+Listening on port: 8085
+ INFO  Starting development server...
+valence_rel_db.db
+ * Serving Flask app "api" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ DONE  Compiled successfully in 8011ms12:21:41 PM
+
+
+  App running at:
+  - Local:   http://localhost:8080/ 
+  - Network: http://192.168.1.79:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
