@@ -1,6 +1,6 @@
 rm log/out
 rm log/error
-bash ENV
+bash ENV.sh
 # bash scripts/common/clear_ports.sh
 bash scripts/common/clear_ports.sh >> log/out 2>>log/error
 echo Launching DB on port 5000
