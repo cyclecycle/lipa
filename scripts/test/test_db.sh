@@ -7,4 +7,5 @@ node scripts/start_rest.js &
 rest_pid=$!
 npm run test
 kill -9 $rest_pid
-export LIPA_SQLITE_DB_FILE="prod.db"
+cd ..
+source ENV.sh
