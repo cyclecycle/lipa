@@ -4,19 +4,19 @@ clearing ports
 > vue-cli-service serve
 
 Listening on port: 8085
-test2.db
+ INFO  Starting development server...
+valence_rels.db
  * Serving Flask app "api" (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
    Use a production WSGI server instead.
  * Debug mode: on
- INFO  Starting development server...
- DONE  Compiled successfully in 9700ms12:49:28 PM
+ DONE  Compiled successfully in 8533ms11:13:31 AM
 
 
   App running at:
   - Local:   http://localhost:8080/ 
-  - Network: http://192.168.0.2:8080/
+  - Network: http://192.168.100.6:8080/
 
   Note that the development build is not optimized.
   To create a production build, run npm run build.
