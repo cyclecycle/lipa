@@ -1,2 +1,3 @@
 cd lipa-ui
-npm run serve
+echo $UI_PORT
+npm run serve -- --port $UI_PORT
